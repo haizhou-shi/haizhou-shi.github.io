@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Zhejiang University, 2019
+* M.S. in Computer Science, Zhejiang University, 2022
+* Ph.D in Computer Science, Rutgers University, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec. 2020 - Dec. 2021: Research Intern
+  * OPPO Research Institute, Shanghai, China
+  * Duties included: Led two research projects on (i) improving self-supervised learning algorithm for lightweight backbone models, and (ii) developing a federated self-supervised learning framework for vision models.
+  * Supervisor: Youcai Zhang, Yandong Guo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2019 - Aug. 2019: Research Intern
+  * Intel Asia-Pacific Research & Development LTD.
+  * Duties included: Conducted reinforcement learning research on the google football simulated environment, benchmarked multiple existing frameworks including DQN, PG, and IMPALA.
+  * Supervisor: Shengsheng Huang, Jinquan Dai
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -56,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Provided review services for multiple top-notched ML/AI conferences, including AAAI'24, AAAI'23, ICCV'23, ECCV'22, and ECAI'23.
+* Life-long fellow at Melton Foundation.
