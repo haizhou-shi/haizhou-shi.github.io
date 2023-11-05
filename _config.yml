@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haizhou Shi's Homepage"
+title                    : "Haizhou's Homepage"
 title_separator          : "-"
 name                     : &name "Haizhou Shi"
 description              : &description "Second-year PhD student at the Rutgers University"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Haizhou Shi"
-  avatar           : "profile.png"
-  bio              : "Second-year PhD student at the Rutgers University, working with Prof.Hao Wang. My research interest lies in improving generalization ability of machine learning models, especially continually learning and adapting to ever-evolving data distributions."
+  avatar           : "profile.jpeg"
+  bio              : "Second-year PhD student at the Rutgers University, under supervision of Prof. Hao Wang. My research interest lies in improving generalization ability of machine learning models, especially continually learning and adapting to ever-evolving data distributions."
   location         : "New Jersey, US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JKwP43sAAAAJ&hl=en"
-  email            : "haizhou DOT shi AT rutgers DOT edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "haizhou.shi@rutgers.edu"
+  researchgate     : "https://www.researchgate.net/profile/Haizhou-Shi-2"
   uri              :
   bitbucket        :
   codepen          :
