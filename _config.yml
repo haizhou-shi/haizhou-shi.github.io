@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haizhou's Homepage"
 title_separator          : "-"
 name                     : &name "Haizhou Shi"
-description              : &description "Second-year PhD student at the Rutgers University"
+description              : &description "Second-year PhD student at the Rutgers University."
 url                      : https://haizhou-shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haizhou-shi.github.io"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Haizhou Shi"
-  avatar           : "profile.jpeg"
-  bio              : "Second-year PhD student at the Rutgers University, under supervision of Prof. Hao Wang. My research interest lies in improving generalization ability of machine learning models, especially continually learning and adapting to ever-evolving data distributions."
+  avatar           : "profile-2.jpeg"
+  bio              : "Second-year CS Ph.D. student at Rutgers University. Interested in doing research, exercising, and funny jokes."
   location         : "New Jersey, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JKwP43sAAAAJ&hl=en"
   email            : "haizhou.shi@rutgers.edu"
   researchgate     : "https://www.researchgate.net/profile/Haizhou-Shi-2"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/haizhou-shi"
+  github           : "haizhou-shi"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/shihaizhou"
+  twitter          : "shihaizhou"
   vine             :
   weibo            :
   xing             :
