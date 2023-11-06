@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Haizhou Shi"
-  avatar           : "profile-2.jpeg"
-  bio              : "Second-year CS Ph.D. student at Rutgers University. Interested in doing research, exercising, and funny jokes."
+  avatar           : "profile-1.jpeg"
+  bio              : "Second-year CS Ph.D. student at Rutgers University. Interested in machine learning research, basketball, and funny jokes."
   location         : "New Jersey, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

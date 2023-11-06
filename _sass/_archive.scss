@@ -84,6 +84,25 @@
   }
 }
 
+.publication-intro {
+  display: flex;
+  align-items: center;
+}
+
+.publication-image {
+  flex: 1;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.publication-content {
+  text-align: left;
+  flex: 2;
+}
+
+.publication-content h2 {
+  margin-top: 0; /* Remove top margin for h1 and p elements */
+}
 
 /*
    List view
