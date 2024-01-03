@@ -12,18 +12,19 @@ Welcome to my personal website! I'm Haizhou Shi (史海舟), a second-year Ph.D.
 
 Previous to that, I earned my M.S. and B.S. degrees from the [CS Department at Zhejiang University](http://www.en.cs.zju.edu.cn) in 2022 and 2019, under the supervision of Prof. [Siliang Tang](https://person.zju.edu.cn/en/siliang) and [Yueting Zhuang](https://person.zju.edu.cn/en/yzhuang). During that time, my focus was on developing generalizable representations in various scenarios, including unsupervised, weakly-supervised, federated, and continual learning.
 
-----
+<!-- ----
 **Job Hunting**: I am now actively looking for the internship opportunity in Summer 2024! *I am interested in working on the topics of (but not limited to) continual pre-training/adaptation for LLMs/large generative models.*
-Please contact me if you are interested (and happen to have an opening in your team 🥹)!
+Please contact me if you are interested (and happen to have an opening in your team 🥹)! -->
 
 ----
 # News
-- 09/2023: *one paper got accepted at NeurIPS 2023! See you in New Orleans!*
-- 07/2023: *one paper got accepted at ECAI 2023!*
+- 01/2024: *I am happy to annouce that I will join [Morgan Stanley](https://www.morganstanley.com) as a machine learning research intern in summer 2024!*
+- 09/2023: *[one paper](https://arxiv.org/abs/2310.12244) on domain incremental learning got accepted at NeurIPS 2023!*
+- 07/2023: *[one paper](https://arxiv.org/abs/2303.05231) on graph contrastive learning got accepted at ECAI 2023!*
 - 09/2022: *I was fortunate to join Rutgers as a Ph.D. student, to work with Prof. [Hao Wang](http://wanghao.in)!*
 - 06/2022: *I earned my M.S. from the CS Department at Zhejiang University. Many thanks to my advisor Prof. [Siliang Tang](https://person.zju.edu.cn/en/siliang) and [Yueting Zhuang](https://person.zju.edu.cn/en/yzhuang)!*
-- 02/2022: *one paper got accepted at AAAI-FL-2022 workshop as oral presentation!*
-- 12/2021: *one paper got accepted at AAAI 2022 as oral presentation!*
+- 02/2022: *[one paper](https://arxiv.org/abs/2109.14611) on federated representation learning got accepted at AAAI-FL-2022 workshop as oral presentation!*
+- 12/2021: *[one paper](https://arxiv.org/abs/2107.14762) on lightweight contrastive learning got accepted at AAAI 2022 as oral presentation!*
 
 
 ----
