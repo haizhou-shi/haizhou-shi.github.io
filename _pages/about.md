@@ -21,7 +21,7 @@ Please contact me if you are interested (and happen to have an opening in your t
 - 04/2024: *Our [survey on Continual Learning of LLMs](https://arxiv.org/abs/2404.16789) is out! We are seeking advice and valuable feedbacks from the community!*
 - 04/2024: *[one paper](https://arxiv.org/abs/2401.15569) on Graph x LLMs got accepted at **IJCAI 2024**!*
 - 01/2024: *two papers [[1](https://arxiv.org/abs/2307.13055), [2](https://arxiv.org/abs/2310.07365)] on graph representation learning got accepted at **WWW 2024**!*
-- 01/2024: *I am happy to annouce that I will join [Morgan Stanley](https://www.morganstanley.com) as a machine learning research intern in summer 2024!*
+- 01/2024: *I am happy to annouce that I will join [Morgan Stanley ML Research Team](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) as a research intern in summer 2024!*
 - 09/2023: *[one paper](https://arxiv.org/abs/2310.12244) on domain incremental learning got accepted at **NeurIPS 2023**!*
 - 07/2023: *[one paper](https://arxiv.org/abs/2303.05231) on graph representation learning got accepted at **ECAI 2023**!*
 - 09/2022: *I was fortunate to join Rutgers as a Ph.D. student, to work with Prof. [Hao Wang](http://wanghao.in)!*
