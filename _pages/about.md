@@ -18,18 +18,18 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
-- [06/2024] *our [paper](https://arxiv.org/abs/2406.11675) on Bayesian Low-Rank Adaptation for LLMs is out!* 
-- [06/2024] *our [paper](https://arxiv.org/abs/2406.11230) on Benchmarking Multimodal LLMs is out!* 
+- [06/2024] *our [paper on Bayesian Low-Rank Adaptation for LLMs](https://arxiv.org/abs/2406.11675) is out!* 
+- [06/2024] *our [paper on Benchmarking Multimodal LLMs](https://arxiv.org/abs/2406.11230) is out!* 
 - [04/2024] *our [survey on Continual Learning of LLMs](https://arxiv.org/abs/2404.16789) is out! We are seeking advice and valuable feedbacks from the community!*
-- [04/2024] *[one paper](https://arxiv.org/abs/2401.15569) on Graph x LLMs got accepted at **IJCAI 2024**!*
+- [04/2024] *[one paper on Graph x LLMs](https://arxiv.org/abs/2401.15569) got accepted at **IJCAI 2024**!*
 - [01/2024] *two papers [[1](https://arxiv.org/abs/2307.13055), [2](https://arxiv.org/abs/2310.07365)] on graph representation learning got accepted at **WWW 2024**!*
 - [01/2024] *I am happy to annouce that I will join [Morgan Stanley ML Research Team](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) as a research intern in summer 2024!*
-- [09/2023] *[one paper](https://arxiv.org/abs/2310.12244) on domain incremental learning got accepted at **NeurIPS 2023**!*
-- [07/2023] *[one paper](https://arxiv.org/abs/2303.05231) on graph representation learning got accepted at **ECAI 2023**!*
+- [09/2023] *one [paper on domain incremental learning](https://arxiv.org/abs/2310.12244) got accepted at **NeurIPS 2023**!*
+- [07/2023] *one [paper on graph representation learning](https://arxiv.org/abs/2303.05231) got accepted at **ECAI 2023**!*
 - [09/2022] *I was fortunate to join Rutgers as a Ph.D. student, to work with Prof. [Hao Wang](http://wanghao.in)!*
 - [06/2022] *I earned my M.S. from the CS Department at Zhejiang University. Many thanks to my advisor Prof. [Siliang Tang](https://person.zju.edu.cn/en/siliang) and [Yueting Zhuang](https://person.zju.edu.cn/en/yzhuang)!*
-- [02/2022] *[one paper](https://arxiv.org/abs/2109.14611) on federated representation learning got accepted at AAAI-FL-2022 workshop as oral presentation!*
-- [12/2021] *[one paper](https://arxiv.org/abs/2107.14762) on lightweight representation learning got accepted at **AAAI 2022** as **oral presentation (top \~1.6%)**!*
+- [02/2022] *one [paper on federated representation learning](https://arxiv.org/abs/2109.14611) got accepted at AAAI-FL-2022 workshop as oral presentation!*
+- [12/2021] *one [paper on lightweight representation learning](https://arxiv.org/abs/2107.14762) got accepted at **AAAI 2022** as **oral presentation (top \~1.6%)**!*
 
 
 ----
