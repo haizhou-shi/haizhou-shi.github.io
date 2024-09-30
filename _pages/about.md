@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm Haizhou Shi (史海舟), a second-year Ph.D. student in the [CS Department at Rutgers University](https://www.cs.rutgers.edu), working under the guidance of Prof. [Hao Wang](http://wanghao.in). *My research centers on enhancing machine learning models' generalization abilities, enabling them to adapt to evolving data distributions in an efficient and reliable way.*
+Welcome to my personal website! I'm Haizhou Shi (史海舟), a third-year Ph.D. student in the [CS Department at Rutgers University](https://www.cs.rutgers.edu), working under the guidance of Prof. [Hao Wang](http://wanghao.in). *My research centers on enhancing machine learning models' generalization abilities, enabling them to adapt to evolving data distributions in an efficient and reliable way.*
 
 Previous to that, I earned my M.S. and B.S. degrees from the [CS Department at Zhejiang University](http://www.en.cs.zju.edu.cn) in 2022 and 2019, under the supervision of Prof. [Siliang Tang](https://person.zju.edu.cn/en/siliang) and [Yueting Zhuang](https://person.zju.edu.cn/en/yzhuang). During that time, my focus was on developing generalizable representations in various scenarios, including unsupervised, weakly-supervised, federated, and continual learning.
 
@@ -18,7 +18,7 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
-- [06/2024] *our [paper on Bayesian Low-Rank Adaptation for LLMs](https://arxiv.org/abs/2406.11675) is out!* 
+- [09/2024] *our [paper on Bayesian Low-Rank Adaptation for LLMs](https://arxiv.org/abs/2406.11675) got accepted at **NeurIPS 2024**!* 
 - [06/2024] *our [paper on Benchmarking Multimodal LLMs](https://arxiv.org/abs/2406.11230) is out!* 
 - [04/2024] *our [survey on Continual Learning of LLMs](https://arxiv.org/abs/2404.16789) is out! We are seeking advice and valuable feedbacks from the community!*
 - [04/2024] *[one paper on Graph x LLMs](https://arxiv.org/abs/2401.15569) got accepted at **IJCAI 2024**!*
