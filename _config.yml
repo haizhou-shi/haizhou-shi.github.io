@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haizhou's Homepage"
 title_separator          : "-"
 name                     : &name "Haizhou Shi"
-description              : &description "Second-year PhD student at the Rutgers University."
+description              : &description "Third-year PhD student at the Rutgers University."
 url                      : https://haizhou-shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haizhou-shi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haizhou Shi"
   avatar           : "profile-1.jpeg"
-  bio              : "Second-year CS Ph.D. student at Rutgers University. Interested in machine learning research, basketball, and funny jokes."
+  bio              : "Third-year CS Ph.D. student at Rutgers University. Interested in machine learning research, basketball, and funny jokes."
   location         : "New Jersey, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

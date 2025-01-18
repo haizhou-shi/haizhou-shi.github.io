@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website! I'm Haizhou Shi (史海舟), a third-year Ph.D. student in the [CS Department at Rutgers University](https://www.cs.rutgers.edu), advised by Prof. [Hao Wang](http://wanghao.in). My research focuses on developing reliable and efficient methods for adapting machine learning models. I'm currently exploring two main areas: **continual training of Large Language Models (LLMs)** - including continued pre-training, post-training, and alignment - and **uncertainty estimation in LLMs** through Bayesian Deep Learning approaches. 
 
-Prior to Rutgers, I received my M.S. and B.S. degrees from the CS Department at Zhejiang University in 2022 and 2019, where I worked with Prof. [Siliang Tang](https://scholar.google.com/citations?user=8e7H3PcAAAAJ&hl=en) and [Yueting Zhuang](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=en). My research there focused on developing generalizable representations across various learning paradigms, including unsupervised, weakly-supervised, federated, and continual learning.
+<small>Prior to Rutgers, I received my M.S. and B.S. degrees from the CS Department at Zhejiang University in 2022 and 2019, where I worked with Prof. [Siliang Tang](https://scholar.google.com/citations?user=8e7H3PcAAAAJ&hl=en) and [Yueting Zhuang](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=en). My research there focused on developing generalizable representations across various learning paradigms, including unsupervised, weakly-supervised, federated, and continual learning.</small>
 
 <!-- ----
 **Job Hunting**: I am now actively looking for the internship opportunity in Summer 2024! *I am interested in working on the topics of (but not limited to) continual pre-training/adaptation for LLMs/large generative models.*
@@ -18,6 +18,7 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
+- [01/2025] *I gave a talk on Bayesian Uncertainty Estimation for LLMs at [Red Hat](https://www.redhat.com/en). [[slides]](https://drive.google.com/file/d/1a5byNlTK30RFnBnqPEyypOt3Eovs54qT/view?usp=share_link)*
 - [12/2024] *Our [paper](https://arxiv.org/abs/2412.05723) on <u>Training-Free Bayesianization for LLMs</u> is out! Now Bayesian LLMs are way cheaper to obtain using our technique!*
 - [09/2024] *Our [paper](https://arxiv.org/abs/2406.11675) on <u>Bayesian Low-Rank Adaptation for LLMs</u> got accepted at **NeurIPS 2024**!* 
 - [06/2024] *Our [paper](https://arxiv.org/abs/2406.11230) on <u>Benchmarking Multimodal LLMs</u> is out!* 
