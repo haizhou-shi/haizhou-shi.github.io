@@ -18,6 +18,7 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
+- [05/2025] *Our [paper](https://arxiv.org/abs/2502.03628) on <u>Dehalluciation of LVLMs</u> got accepted at **ICML 2025**!*
 - [02/2025] *Our [paper](https://arxiv.org/abs/2412.05723) on <u>Training-Free Bayesianization for LLMs</u> got accepted at [ICLR 2025 "QUESTION" Workshop](https://uncertainty-foundation-models.github.io)!*
 - [01/2025] *I will join [Salesforce AI Reseach](https://www.salesforceairesearch.com) as a research intern in summer 2025!*
 - [01/2025] *Our [paper](https://arxiv.org/abs/2406.11230) on <u>Benchmarking Multimodal LLMs</u> got accepted at **NAACL 2025**!*
