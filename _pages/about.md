@@ -18,13 +18,13 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
+- [05/2025] *Our [survey](https://arxiv.org/abs/2404.16789) on <u>Continual Learning of LLMs</u> got accepted at **CSUR**!*
 - [05/2025] *Our [paper](https://arxiv.org/abs/2502.03628) on <u>Dehalluciation of LVLMs</u> got accepted at **ICML 2025**!*
 - [02/2025] *Our [paper](https://arxiv.org/abs/2412.05723) on <u>Training-Free Bayesianization for LLMs</u> got accepted at [ICLR 2025 "QUESTION" Workshop](https://uncertainty-foundation-models.github.io)!*
 - [01/2025] *I will join [Salesforce AI Reseach](https://www.salesforceairesearch.com) as a research intern in summer 2025!*
 - [01/2025] *Our [paper](https://arxiv.org/abs/2406.11230) on <u>Benchmarking Multimodal LLMs</u> got accepted at **NAACL 2025**!*
 - [01/2025] *I gave a [talk](https://drive.google.com/file/d/1a5byNlTK30RFnBnqPEyypOt3Eovs54qT/view?usp=share_link) on <u>Bayesian Uncertainty Estimation for LLMs</u> at [Red Hat](https://www.redhat.com/en).*
 - [09/2024] *Our [paper](https://arxiv.org/abs/2406.11675) on <u>Bayesian Low-Rank Adaptation for LLMs</u> got accepted at **NeurIPS 2024**!* 
-- [04/2024] *Our [survey](https://arxiv.org/abs/2404.16789) on <u>Continual Learning of LLMs</u> is out!*
 - [01/2024] *I will join [Morgan Stanley ML Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) as a research intern in summer 2024!*
 - [09/2023] *Our [paper](https://arxiv.org/abs/2310.12244) on <u>Domain Incremental Learning</u> got accepted at **NeurIPS 2023**!*
 - [09/2022] *I was fortunate to join Rutgers as a Ph.D. student, to work with Prof. [Hao Wang](http://wanghao.in)!*
