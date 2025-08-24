@@ -10,5 +10,5 @@ codeurl: 'https://github.com/WOWNICE/ssl-small'
 slidesurl: 'https://aaai-2022.virtualchair.net/poster_aaai3608'
 img: '/images/publications/lightweight.png'
 authors: "<b>Haizhou Shi</b>, Youcai Zhang, Siliang Tang, Wenjie Zhu, Yaqian Li, Yandong Guo, Yueting Zhuang"
-selected: true
+selected: false
 ---
