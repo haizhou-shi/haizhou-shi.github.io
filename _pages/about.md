@@ -18,8 +18,8 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
-- [11/2025] *Our [preprint](https://arxiv.org/abs/2511.10621) on <u>LLM Reasoning</u> is out!*
-- [09/2025] *Our [paper](https://arxiv.org/abs/2505.11737) on <u>Bayesian LLMs for Reasoning</u> got accepted at **[NeurIPS 2025 FoRLM Workshop](https://reasoning-workshop.github.io)**!*
+- [01/2026] *Our [paper](https://arxiv.org/abs/2505.11737) on <u>Bayesian LLMs for Reasoning</u> got accepted at **ICLR 2026**!*
+- [11/2025] *Our [preprint](https://arxiv.org/abs/2511.10621) on <u>Test-Time Scaling for LLM Reasoning</u> is out!*
 - [09/2025] *Our [paper](https://arxiv.org/abs/2412.05723) on <u>Bayesian LLMs</u> got accepted at **NeurIPS 2025**!*
 - [05/2025] *Our [survey](https://arxiv.org/abs/2404.16789) on <u>Continual Learning of LLMs</u> got accepted at **CSUR**!*
 - [05/2025] *Our [paper](https://arxiv.org/abs/2502.03628) on <u>LVLMs</u> got accepted at **ICML 2025**!*
