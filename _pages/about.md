@@ -18,6 +18,7 @@ Please contact me if you are interested (and happen to have an opening in your t
 
 ----
 # News
+- [04/2026] *Our [paper](https://arxiv.org/abs/2602.03053) on <u>LLM Multi-Agent Systems</u> got accepted at **ICML 2026**!*
 - [01/2026] *Our [paper](https://arxiv.org/abs/2505.11737) on <u>Bayesian LLMs for Reasoning</u> got accepted at **ICLR 2026**!*
 - [11/2025] *Our [preprint](https://arxiv.org/abs/2511.10621) on <u>Test-Time Scaling for LLM Reasoning</u> is out!*
 - [09/2025] *Our [paper](https://arxiv.org/abs/2412.05723) on <u>Bayesian LLMs</u> got accepted at **NeurIPS 2025**!*
